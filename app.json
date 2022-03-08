@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "language-app-reactnative",
+    "slug": "language-app-reactnative",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "language-app-reactnative"
+}
